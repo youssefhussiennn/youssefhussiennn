@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=865&height=44&lines=I%20am%20Odoo%20Developer%20with%20good%20knowledge%20in%20implementing;Professionalized%20in%20Odoo%20versions%2015--%3E%2019" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=I%20am%20a%20senior%20Odoo%20Developer%20with%20good%20knowledge%20in%20implementing;Professionalized%20in%20Odoo%20versions%2015--%3E%2019" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
